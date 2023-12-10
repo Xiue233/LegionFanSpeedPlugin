@@ -1,0 +1,2 @@
+D:\projects\vs\LegionInfoPlugin\x64\Debug\LegionInfoPlugin.vcxproj.AssemblyReference.cache
+D:\projects\vs\LegionInfoPlugin\x64\Debug\LegionInfoPlugin.dll

@@ -1,0 +1,4 @@
+﻿  dllmain.cpp
+  dllmain.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+     Creating library D:\projects\vs\LegionInfoPlugin\x64\Debug\LegionInfoPlugin.lib and object D:\projects\vs\LegionInfoPlugin\x64\Debug\LegionInfoPlugin.exp
+  LegionInfoPlugin.vcxproj -> D:\projects\vs\LegionInfoPlugin\x64\Debug\LegionInfoPlugin.dll

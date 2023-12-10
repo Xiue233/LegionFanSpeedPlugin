@@ -1,0 +1,6 @@
+D:\projects\vs\LegionInfoDLL\bin\Debug\LegionInfoDLL.dll
+D:\projects\vs\LegionInfoDLL\bin\Debug\LegionInfoDLL.pdb
+D:\projects\vs\LegionInfoDLL\obj\Debug\LegionInfoDLL.csproj.AssemblyReference.cache
+D:\projects\vs\LegionInfoDLL\obj\Debug\LegionInfoDLL.csproj.CoreCompileInputs.cache
+D:\projects\vs\LegionInfoDLL\obj\Debug\LegionInfoDLL.dll
+D:\projects\vs\LegionInfoDLL\obj\Debug\LegionInfoDLL.pdb
